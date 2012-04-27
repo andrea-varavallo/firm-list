@@ -145,3 +145,8 @@ The Symfony Standard Edition comes pre-configured with the following bundles:
 * **AcmeDemoBundle** (in dev/test env) - A demo bundle with some example code
 
 Enjoy!
+=======
+firm-list
+=========
+
+A small application engineered to contain the commercial partner on a per-year basis
